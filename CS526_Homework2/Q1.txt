@@ -1,0 +1,6 @@
+If we use a tail pointer in a linked list, 
+it will be easier to insert new nodes. 
+For a linked list without a tail pointer, 
+a new node insertion requires traversing the whole linked list which takes O(n) time; 
+however, with a tail pointer, 
+we only need O(1) to find the tail pointer and then append new node after the current tail.
