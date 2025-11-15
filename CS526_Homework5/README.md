@@ -32,4 +32,4 @@ ENTER `python3 Problem3.py ./longest_seq/[filename]` in the console
 Example:  
 `python3 Problem3.py ./longest_seq/longest_seq1.txt`  
 *Test result*:  
-![This is the test result for problem 3.](/Test/P3.png)
+![This is the test result for problem 3.](/Test/Problem3.png)
