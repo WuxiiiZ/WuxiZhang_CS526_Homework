@@ -55,7 +55,7 @@ marraige_ten.txt:
 marriage_hundred.txt:  
 ![Test result](./Test/p3(2)_1.png)
 ![Test result](./Test/p3(2)_2.png)  
-marriage_hundred.txt:  
+marraige_thousand.txt:  
 ![Test result](./Test/p3(3)_1.png)
 ![Test result](./Test/p3(3)_2.png)
 ![Test result](./Test/p3(3)_3.png)
